@@ -1,3 +1,13 @@
+<!-- Cabeçalho com onda -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chris&fontSize=60&fontColor=fff" />
+</p>
+
+<!-- Texto digitando -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38576B&center=true&vCenter=true&width=450&lines=Estudante+de+Python;Criando+meus+primeiros+projetos;Aprendendo+Git+e+GitHub" />
+</p>
+
 # 👋 Sobre mim
 
 Olá! Sou estudante de **Engenharia da Computação na Universidade de Sorocaba (UNISO)**, interessado em tecnologia, desenvolvimento de software, hardware e análise de dados.
@@ -91,8 +101,6 @@ Sistema voltado ao gerenciamento e acompanhamento de preços de produtos em supe
 
 ### 📡 DispensaNet RFID
 Extensão do projeto DispensaNet utilizando ESP32-S3, leitores RFID e display TFT. Desenvolvido para realizar a identificação de produtos e integrar informações entre hardware e software.
-
-Repositório: [DispensaNet RFID](https://github.com/Chrispowertop/Dispensanet-RFID)
 
 ### 🧮 Calculadora em Python
 Aplicação desktop desenvolvida em Python utilizando Tkinter, com interface gráfica e operações matemáticas.
