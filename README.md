@@ -26,7 +26,7 @@ Estou aprendendo programação e construindo projetos para praticar.
 - [Calculadora em Python](https://github.com/Chrispowertop/calculadora-python): calculadora desktop com Tkinter
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([COLE-SEU-LINK-DO-LINKEDIN](https://www.linkedin.com/in/christopher-ubirajara-martins-silva-04080b35a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-ubirajara-martins-silva-04080b35a/))
 
 <!--
 **Chrispowertop/Chrispowertop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
