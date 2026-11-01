@@ -1,11 +1,12 @@
 <!-- Cabeçalho com onda -->
+<!-- Cabeçalho com onda -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chris&fontSize=60&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0060B1,100:002747&height=200&section=header&text=Christopher&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- Texto digitando -->
+<!-- Texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38576B&center=true&vCenter=true&width=450&lines=Estudante+de+Python;Criando+meus+primeiros+projetos;Aprendendo+Git+e+GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0060B1&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Desenvolvimento+de+Software;Sistemas+Embarcados+e+IoT;An%C3%A1lise+e+Processamento+de+Dados;Integrando+Software+e+Hardware" />
 </p>
 
 # 👋 Sobre mim
